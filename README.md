@@ -1,8 +1,7 @@
 Ola sou o Akin Martimiano👋
-- 🔭 Estou trabalhando como desenvolvedor Front-end 
+- 🔭 Estou estudando para me tornar um desenvolvedor Front-end 
 - 🌱 Estudando javascript
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: 
+
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Akin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
