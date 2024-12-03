@@ -1,6 +1,6 @@
 Ola sou o Akin Martimiano da Silva👋
-- 🔭 Estou estudando para me tornar um desenvolvedor Front-end 
-- 🌱 Estudando javascript
+- 🔭 Desenvolvedor Front-end 
+- 🌱 Estudando JavaScript
 
 
 <div style="display: inline_block"><br>
